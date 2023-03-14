@@ -1,0 +1,33 @@
+.fundo{
+    background-color: grey;
+    border: aqua;
+}
+.fundo1{
+    background-color: black;
+    text-align: center;
+    font-size: 1.2em;
+}
+.fundo2 :hover{
+    text-align: left;
+    text-decoration: none;
+    transition: aqua solid 1s;
+}
+a{
+    text-decoration: none;
+    color: aqua;
+    font-size: o.7em;
+    transition: 0.5s;
+    background-color: blue;
+    margin: 30px 10px  ;
+    font-style: italic;
+
+}
+a:hover{
+    text-decoration: none;
+    color: aqua;
+    font-size: 0.8em;
+    transition: 1s;
+}
+.ajustevideo{
+    text-align: center;
+}
